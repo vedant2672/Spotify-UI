@@ -1,4 +1,4 @@
-Spotify Frontend Clone
+Spotify Frontend Clone :
 This project is a Spotify frontend clone built using HTML and CSS. The aim of this project was to replicate the user interface of Spotify’s web player, focusing on clean, responsive design.
 
 Features
